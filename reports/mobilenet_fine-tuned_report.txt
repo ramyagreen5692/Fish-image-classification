@@ -1,0 +1,19 @@
+Classification Report for MobileNet Fine-Tuned
+
+                                  precision    recall  f1-score   support
+
+                     animal_fish       0.99      1.00      1.00       520
+                animal_fish_bass       1.00      0.69      0.82        13
+   fish_sea_food_black_sea_sprat       1.00      1.00      1.00       298
+   fish_sea_food_gilt_head_bream       1.00      1.00      1.00       305
+   fish_sea_food_hourse_mackerel       1.00      1.00      1.00       286
+        fish_sea_food_red_mullet       1.00      1.00      1.00       291
+     fish_sea_food_red_sea_bream       1.00      1.00      1.00       273
+          fish_sea_food_sea_bass       1.00      1.00      1.00       327
+            fish_sea_food_shrimp       1.00      1.00      1.00       289
+fish_sea_food_striped_red_mullet       1.00      1.00      1.00       293
+             fish_sea_food_trout       1.00      1.00      1.00       292
+
+                        accuracy                           1.00      3187
+                       macro avg       1.00      0.97      0.98      3187
+                    weighted avg       1.00      1.00      1.00      3187
