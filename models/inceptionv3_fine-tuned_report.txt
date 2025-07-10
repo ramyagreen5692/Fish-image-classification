@@ -1,0 +1,19 @@
+Classification Report for InceptionV3 Fine-Tuned
+
+                                  precision    recall  f1-score   support
+
+                     animal_fish       0.97      1.00      0.98       520
+                animal_fish_bass       1.00      0.08      0.14        13
+   fish_sea_food_black_sea_sprat       1.00      1.00      1.00       298
+   fish_sea_food_gilt_head_bream       1.00      1.00      1.00       305
+   fish_sea_food_hourse_mackerel       1.00      1.00      1.00       286
+        fish_sea_food_red_mullet       0.98      0.99      0.98       291
+     fish_sea_food_red_sea_bream       1.00      1.00      1.00       273
+          fish_sea_food_sea_bass       0.99      0.99      0.99       327
+            fish_sea_food_shrimp       1.00      1.00      1.00       289
+fish_sea_food_striped_red_mullet       0.99      0.97      0.98       293
+             fish_sea_food_trout       0.99      0.99      0.99       292
+
+                        accuracy                           0.99      3187
+                       macro avg       0.99      0.91      0.91      3187
+                    weighted avg       0.99      0.99      0.99      3187
