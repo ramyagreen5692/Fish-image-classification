@@ -48,5 +48,26 @@ Develop a robust image classification pipeline to:
   - Upload fish images.
   - Predict species and show confidence scores.
 
+This app supports predictions using the following fine-tuned models:
+
+- ✅ CNN from Scratch
+- ✅ VGG16
+- ✅ ResNet50
+- ✅ MobileNet
+- ✅ InceptionV3
+- ✅ EfficientNetB0
+
+All models were trained on a custom fish dataset with 10 species, including:
+- `bass`, `trout`, `shrimp`, `gilt_head_bream`, etc.
+
+## 📸 How to Use
+
+1. Upload a fish image (`.jpg`, `.jpeg`, or `.png`)
+2. Select a model from the dropdown
+3. Click the **Submit** button
+4. View:
+   - Predicted species
+   - Model confidence scores
+
 
 
